@@ -1,2 +1,2 @@
 # SiCeMet
-link : sicemet.epizy.com
+link : http://sicemet.epizy.com
